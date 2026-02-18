@@ -49,3 +49,7 @@ This is a **Spring Boot** application designed to manage and explore a large dat
 * **Source Code**: Hosted on GitHub.
 * **Database**: H2 In-Memory (No external setup required).
 * **Data Source**: `recipes.json` (Included in resources).
+  
+## 6. PDF Drive Link
+
+https://drive.google.com/file/d/1mT5IleJLEgfPxpUuzM2nE-NvkzdHE7fD/view?usp=sharing
